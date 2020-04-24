@@ -9,11 +9,11 @@ All of the 0HPs have a video build guide where I walk you through the build in r
 
 0HP AND Gate: https://www.youtube.com/watch?v=Fq5uYpXbGwg
 
-0HP Vactrol Modules: https://www.youtube.com/watch?v=n0taQfboqG8
+0HP Vactrol Modules: https://www.youtube.com/watch?v=mm4W4f8I_lo
 
 0HP EYEtenuator: https://www.youtube.com/watch?v=DmxErBO5lPQ
 
-0HP Filter: https://www.youtube.com/watch?v=wi7h-eE9ds8
+0HP Filter: https://www.youtube.com/watch?v=8Kq_Jk5Iuyo
 
 If you are new to soldering, here is a guide I made going over the basics: https://www.youtube.com/watch?v=Z_U6xBCo2K4
 
