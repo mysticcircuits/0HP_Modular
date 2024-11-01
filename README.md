@@ -5,17 +5,23 @@ However they can be adapted and used in all kinds of scenarios, including other 
 
 All of the 0HPs have a video build guide where I walk you through the build in real time.  These modules are ideal for DIY beginners and I wanted to make things easier for beginners to follow along like a Bob Ross video.  For the relevant videos, look at the links below:
 
-0HP 0ttenuator: https://www.youtube.com/watch?v=EMEGXFQ9v8U
+0HP 0ttenuator: https://youtu.be/Et-Cd0Tk92Y
 
-0HP OR Gate: https://www.youtube.com/watch?v=eFvVi8t6iDU
+0HP Butt0n: https://youtu.be/Q1uErexXjrM
 
-0HP AND Gate: https://www.youtube.com/watch?v=Fq5uYpXbGwg
+0HP Blinkus: https://youtu.be/KXeKGlNDjDo
 
-0HP Vactrol Modules: https://www.youtube.com/watch?v=mm4W4f8I_lo
+0HP OR Gate: https://youtu.be/0qNCt1tknoM
 
-0HP EYEtenuator: https://www.youtube.com/watch?v=DmxErBO5lPQ
+0HP AND Gate: https://youtu.be/TZeJ5ZJfBpM
 
-0HP Filter: https://www.youtube.com/watch?v=8Kq_Jk5Iuyo
+0HP Vactrol Modules: https://youtu.be/1y4UL7ndCgU
+
+0HP EYEtenuator: https://youtu.be/DLzy-zN2tSA
+
+0HP Filter: https://youtu.be/64bybnugtrU
+
+0HP Envelope: https://youtu.be/DnMquwOY_Zk
 
 If you are new to soldering, here is a guide I made going over the basics: https://www.youtube.com/watch?v=Z_U6xBCo2K4
 
